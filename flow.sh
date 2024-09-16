@@ -4,7 +4,7 @@
 git add *
 
 # commit changes
-git commit -m "Message"
+git commit -m "Finished"
 
 # push changes
-git push -u origin main
+git push origin
